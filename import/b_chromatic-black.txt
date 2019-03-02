@@ -1,0 +1,26 @@
+3 Cabal Stronghold (DAR) 238
+21 Swamp (XLN) 269
+4 Chromatic Lantern (GRN) 233
+3 Treasure Map (XLN) 250
+4 Karn, Scion of Urza (DAR) 1
+2 Dead Weight (GRN) 67
+3 Golden Demise (RIX) 73
+2 Cleansing Nova (M19) 9
+2 Mastermind's Acquisition (RIX) 77
+3 The Eldest Reborn (DAR) 90
+3 Vraska's Contempt (XLN) 129
+4 Discovery // Dispersal (GRN) 223
+2 Demonlord Belzenlok (DAR) 86
+1 Tetzimoc, Primal Death (RIX) 86
+1 Ritual of Soot (GRN) 84
+1 Niv-Mizzet, Parun (GRN) 192
+1 Josu Vess, Lich Knight (DAR) 95
+
+3 Divest (DAR) 87
+3 Duress (XLN) 105
+3 Negate (RIX) 44
+1 Niv-Mizzet, Parun (GRN) 192
+1 Banefire (M19) 130
+1 Cleansing Nova (M19) 9
+1 Sanguine Sacrament (XLN) 33
+2 Dread Shade (DAR) 88
