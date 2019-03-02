@@ -1,0 +1,25 @@
+1 Quasiduplicate (GRN) 51
+7 Mountain (RIX) 195
+2 Radical Idea (GRN) 52
+3 Goblin Electromancer (GRN) 174
+2 Admiral's Order (RIX) 31
+2 Nightveil Sprite (GRN) 48
+11 Island (RIX) 193
+3 Negate (RIX) 44
+3 Opt (XLN) 65
+1 Spell Pierce (XLN) 81
+4 Erratic Cyclops (GRN) 98
+2 Dive Down (XLN) 53
+2 Search for Azcanta (XLN) 74
+4 Chemister's Insight (GRN) 32
+4 Risk Factor (GRN) 113
+3 Electrostatic Field (GRN) 97
+3 Sulfur Falls (DAR) 247
+1 Steam Vents (GRN) 257
+2 Curious Obsession (RIX) 35
+
+3 Lightning Strike (XLN) 149
+3 Lava Coil (GRN) 108
+4 Disdainful Stroke (GRN) 37
+3 Essence Scatter (M19) 54
+2 Niv-Mizzet, Parun (GRN) 192
