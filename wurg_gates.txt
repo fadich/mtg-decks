@@ -1,0 +1,29 @@
+2 Archway Angel (RNA) 3
+4 Gate Colossus (RNA) 232
+4 Gatebreaker Ram (RNA) 126
+3 Circuitous Route (GRN) 125
+4 Gates Ablaze (RNA) 102
+4 Shimmer of Possibility (RNA) 51
+1 Expansion // Explosion (GRN) 224
+4 Growth Spiral (RNA) 178
+3 Negate (RIX) 44
+4 Guild Summit (GRN) 41
+3 Breeding Pool (RNA) 246
+1 Forest (XLN) 277
+1 Island (XLN) 265
+4 Izzet Guildgate (GRN) 251
+2 Plaza of Harmony (RNA) 254
+1 Steam Vents (GRN) 257
+1 Stomping Ground (RNA) 259
+3 Boros Guildgate (GRN) 243
+4 Selesnya Guildgate (GRN) 255
+3 Gateway Sneak (RNA) 40
+4 Simic Guildgate (RNA) 258
+
+1 Cindervines (RNA) 161
+4 Lava Coil (GRN) 108
+1 Invoke the Divine (DAR) 22
+1 Invoke the Divine (M19) 16
+2 Reclamation Sage (M19) 196
+4 Fountain of Renewal (M19) 235
+2 Rhythm of the Wild (RNA) 201
