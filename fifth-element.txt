@@ -1,0 +1,30 @@
+1 Rootbound Crag (XLN) 256
+4 Lightning Strike (XLN) 149
+1 Steam Vents (GRN) 257
+4 Breeding Pool (RNA) 246
+2 Stomping Ground (RNA) 259
+1 Nissa, Who Shakes the World (WAR) 169
+2 Banefire (M19) 130
+2 Chandra, Acolyte of Flame (M20) 126
+1 Chandra, Awakened Inferno (M20) 127
+4 Overgrowth Elemental (M20) 187
+4 Creeping Trailblazer (M20) 207
+2 Lightning Stormkin (M20) 213
+3 Omnath, Locus of the Roil (M20) 216
+4 Risen Reef (M20) 217
+5 Forest (M20) 278
+6 Mountain (M20) 273
+2 Chandra, Novice Pyromancer (M20) 128
+1 Hinterland Harbor (DAR) 240
+1 Multani, Yavimaya's Avatar (DAR) 174
+3 Sulfur Falls (DAR) 247
+1 Temple of Mystery (M20) 255
+4 Runaway Steam-Kin (GRN) 115
+2 Vine Mare (M19) 207
+
+2 Banefire (M19) 130
+2 Electrodominance (RNA) 99
+2 Repudiate // Replicate (RNA) 227
+3 Chromatic Lantern (GRN) 233
+2 Reclamation Sage (M19) 196
+4 Cindervines (RNA) 161
