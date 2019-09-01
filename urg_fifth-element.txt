@@ -4,7 +4,7 @@
 4 Breeding Pool (RNA) 246
 2 Stomping Ground (RNA) 259
 1 Nissa, Who Shakes the World (WAR) 169
-2 Banefire (M19) 130
+1 Banefire (M19) 130
 2 Chandra, Acolyte of Flame (M20) 126
 1 Chandra, Awakened Inferno (M20) 127
 4 Overgrowth Elemental (M20) 187
@@ -12,15 +12,16 @@
 2 Lightning Stormkin (M20) 213
 3 Omnath, Locus of the Roil (M20) 216
 4 Risen Reef (M20) 217
-5 Forest (M20) 278
-6 Mountain (M20) 273
+7 Mountain (M20) 273
+3 Forest (M20) 278
 2 Chandra, Novice Pyromancer (M20) 128
 1 Hinterland Harbor (DAR) 240
 1 Multani, Yavimaya's Avatar (DAR) 174
 3 Sulfur Falls (DAR) 247
-1 Temple of Mystery (M20) 255
+2 Temple of Mystery (M20) 255
 4 Runaway Steam-Kin (GRN) 115
 2 Vine Mare (M19) 207
+1 Cavalier of Gales (M20) 52
 
 2 Banefire (M19) 130
 2 Electrodominance (RNA) 99
