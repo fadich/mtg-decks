@@ -1,0 +1,27 @@
+Deck
+4 Vantress Gargoyle (ELD) 71
+22 Island (ELD) 257
+4 Wall of Lost Thoughts (RNA) 59
+4 Quench (RNA) 48
+4 Thought Collapse (RNA) 57
+4 Narset, Parter of Veils (WAR) 61
+4 Chemister's Insight (GRN) 32
+3 Leyline of Anticipation (M20) 64
+2 Dungeon Geists (M20) 57
+1 Cavalier of Gales (M20) 52
+1 Castle Vantress (ELD) 242
+1 Mystic Sanctuary (ELD) 247
+2 Unsummon (M20) 78
+2 Drowned Secrets (GRN) 39
+2 Mission Briefing (GRN) 44
+
+Sideboard
+2 Tale's End (M20) 77
+2 Folio of Fancies (ELD) 46
+2 Mass Manipulation (RNA) 42
+2 Agent of Treachery (M20) 43
+1 Stolen by the Fae (ELD) 66
+1 Flood of Tears (M20) 59
+1 Drawn from Dreams (M20) 56
+2 Negate (M20) 69
+2 Negate (RIX) 44
