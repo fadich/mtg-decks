@@ -1,0 +1,25 @@
+Deck
+2 Castle Locthwain (ELD) 241
+4 Diregraf Ghoul (M19) 92
+21 Swamp (THB) 252
+4 Knight of the Ebon Legion (M20) 105
+4 Graveyard Marshal (M19) 99
+4 Tymaret, Chosen from Death (THB) 119
+4 Yarok's Fenlurker (M20) 123
+2 Murderous Rider (ELD) 97
+3 Gray Merchant of Asphodel (THB) 99
+4 Phyrexian Obliterator (NPH) 68
+2 Ravenous Chupacabra (RIX) 82
+2 Spawn of Mayhem (RNA) 85
+4 Drill Bit (RNA) 73
+
+Sideboard
+1 Gray Merchant of Asphodel (THB) 99
+2 Vraska's Contempt (XLN) 129
+2 Cast Down (DAR) 81
+1 Murderous Rider (ELD) 97
+2 Order of Midnight (ELD) 99
+2 Ayara, First of Locthwain (ELD) 75
+2 Legion's End (M20) 106
+2 Agonizing Remorse (THB) 83
+1 Ravenous Chupacabra (RIX) 82
