@@ -1,0 +1,49 @@
+Deck
+1 Kroxa, Titan of Death's Hunger (THB) 221
+1 Nicol Bolas, the Ravager (M19) 218
+1 Pull from Tomorrow (AKR) 74
+2 Vraska's Contempt (XLN) 129
+2 Heartless Act (IKO) 91
+2 Sinister Sabotage (GRN) 54
+1 Extinction Event (IKO) 88
+1 Ritual of Soot (GRN) 84
+1 Languish (JMP) 246
+1 Cry of the Carnarium (RNA) 70
+3 Innocent Blood (JMP) 244
+4 Thought Erasure (GRN) 206
+2 Shark Typhoon (IKO) 67
+2 Search for Azcanta (XLN) 74
+1 Nicol Bolas, God-Pharaoh (AKR) 247
+3 Narset, Parter of Veils (WAR) 61
+1 Nicol Bolas, Dragon-God (WAR) 207
+1 Castle Vantress (ELD) 242
+1 Castle Locthwain (ELD) 241
+3 Sulfur Falls (DAR) 247
+1 Temple of Deceit (THB) 245
+2 Island (THB) 251
+1 Temple of Malice (THB) 247
+1 Steam Vents (GRN) 257
+1 Blood Crypt (RNA) 245
+1 Drowned Catacomb (XLN) 253
+1 Watery Grave (GRN) 259
+1 Dragonskull Summit (XLN) 252
+1 Temple of Epiphany (M21) 252
+2 Temple of Epiphany (M20) 253
+3 Fabled Passage (ELD) 244
+2 Lava Coil (GRN) 108
+1 Enter the God-Eternals (WAR) 196
+1 Negate (M20) 69
+1 Liliana, Dreadhorde General (WAR) 97
+6 Swamp (THB) 252
+
+Sideboard
+1 Chandra, Awakened Inferno (M20) 127
+2 Lava Coil (GRN) 108
+1 Captive Audience (RNA) 160
+1 Innocent Blood (JMP) 244
+1 Ashiok, Dream Render (WAR) 228
+1 Star of Extinction (XLN) 161
+1 Liliana, Dreadhorde General (WAR) 97
+2 Virulent Plague (DTK) 125
+2 Cry of the Carnarium (RNA) 70
+3 Aether Gust (M20) 42
