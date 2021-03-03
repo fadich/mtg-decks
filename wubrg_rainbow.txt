@@ -1,0 +1,52 @@
+Deck
+4 Explore (JMP) 393
+1 Hallowed Fountain (RNA) 251
+4 Growth Spiral (RNA) 178
+2 Godless Shrine (RNA) 248
+4 Thought Erasure (GRN) 206
+4 Breeding Pool (RNA) 246
+3 Deafening Clarion (GRN) 165
+2 Overgrown Tomb (GRN) 253
+1 Sacred Foundry (GRN) 254
+4 Maelstrom Pulse (ARB) 92
+1 Nicol Bolas, the Ravager (M19) 218
+1 Captain Sisay (INV) 237
+1 Escape to the Wilds (ELD) 189
+2 Niv-Mizzet Reborn (WAR) 208
+1 Teferi, Hero of Dominaria (DAR) 207
+1 Time Wipe (WAR) 223
+1 Nicol Bolas, God-Pharaoh (AKR) 247
+1 Stomping Ground (RNA) 259
+1 Temple Garden (GRN) 258
+1 Blood Crypt (RNA) 245
+1 Steam Vents (GRN) 257
+1 Watery Grave (GRN) 259
+1 Glacial Fortress (XLN) 255
+1 Drowned Catacomb (XLN) 253
+1 Isolated Chapel (DAR) 241
+1 Sulfur Falls (DAR) 247
+1 Dragonskull Summit (XLN) 252
+2 Woodland Cemetery (DAR) 248
+1 Rootbound Crag (XLN) 256
+1 Sunpetal Grove (XLN) 257
+1 Hinterland Harbor (DAR) 240
+2 Zagoth Triome (IKO) 259
+2 Chromatic Lantern (GRN) 233
+1 Ugin, the Spirit Dragon (M21) 1
+1 Kenrith, the Returned King (ELD) 303
+1 Mastermind's Acquisition (RIX) 77
+1 Ajani, the Greathearted (WAR) 184
+
+Sideboard
+1 Primevals' Glorious Rebirth (DAR) 201
+1 Ethereal Absolution (RNA) 170
+1 Mastermind's Acquisition (RIX) 77
+1 Ashiok, Nightmare Muse (THB) 208
+2 Bedevil (RNA) 157
+1 Casualties of War (WAR) 187
+1 Underrealm Lich (GRN) 211
+1 Cleansing Nova (M19) 9
+1 Nicol Bolas, Dragon-God (WAR) 207
+1 Kethis, the Hidden Hand (M20) 211
+2 Nicol Bolas, the Ravager (M19) 218
+2 Hydroid Krasis (RNA) 183
